@@ -1,0 +1,27 @@
+﻿  D3D.cpp
+  Hack.cpp
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(810,39): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\Program Files (x86)\Visual Studio 2019\VC\Tools\MSVC\14.24.28314\include\xtgmath.h(24,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(998,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1013,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1013,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1015,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1015,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1021,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1021,33): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1023,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1023,33): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1029,45): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1029,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1031,45): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1031,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1080,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1080,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1096,58): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1096,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  Code wird generiert.
+  1 of 345 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Sn0w CSGO.vcxproj -> K:\C++\Sn0w CSGO\Release\Sn0w CSGO.dll

@@ -1,0 +1,57 @@
+﻿  D3D.cpp
+  DllMain.cpp
+  Draw.cpp
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(30,3): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(30,3): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(30,7): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(30,7): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(31,5): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(31,5): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(31,10): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(31,10): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(33,5): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(33,5): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(33,12): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(33,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(34,3): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(34,3): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(34,9): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(34,9): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Draw.cpp(81,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  Hack.cpp
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(810,39): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\Program Files (x86)\Visual Studio 2019\VC\Tools\MSVC\14.24.28314\include\xtgmath.h(24,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(817,35): warning C4804: ">=": unsichere Verwendung des Typs "bool" in einer Operation
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(998,15): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1013,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1013,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1015,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1015,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1021,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1021,33): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1023,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1023,33): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1029,45): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1029,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1031,45): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1031,32): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1080,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1080,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1096,58): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Hack.cpp(1096,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  Hook.cpp
+  LocalPlayer.cpp
+  Player.cpp
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(20,42): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(21,42): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(22,42): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(33,42): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(34,42): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(35,42): warning C4244: "=": Konvertierung von "float" in "BYTE", möglicher Datenverlust
+  Sig.cpp
+  Code wird generiert...
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(54): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": oldChams" wird zurückgegeben
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(62): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": entView" wird zurückgegeben
+K:\C++\Sn0w CSGO\Sn0w CSGO\Player.cpp(100): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": bonePos" wird zurückgegeben
+K:\C++\Sn0w CSGO\Sn0w CSGO\LocalPlayer.cpp(66): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": bonePos" wird zurückgegeben
+  Sn0w CSGO.vcxproj -> K:\C++\Sn0w CSGO\Debug\Sn0w CSGO.dll
